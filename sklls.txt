@@ -1,0 +1,11 @@
+1) HTTP, JSON, XML
+2) API Postman (JS, автотесты API)
+3) Charles, Fiddler
+4) Dev Tools (Google Chrome, FireFox)
+5) iOS, Android (Android Studio, ADB)
+6) Terminal Linux
+7) Bash скриптинг
+8) SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)
+9) Postgres, Redis, Jmeter
+10) Scrum
+11) Python (основы)
