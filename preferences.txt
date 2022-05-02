@@ -1,5 +1,5 @@
-1) любимый фильм: Дневник памяти
-2) любимый сериал: 32
-3) любимая еда: 0
-4) любимое время года: 1000
-5) страна которую хотели бы посетить: Island
+1) favorite_movie: Diary of memory
+2) favorite_series: Game of thrones
+3) favorite_food: sushi
+4) favorite_season: summer
+5) country_you_would_like_to_visit: Island
